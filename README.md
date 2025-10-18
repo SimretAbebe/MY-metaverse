@@ -14,20 +14,4 @@ It showcases stunning animations, elegant design, and optimized performance insp
 - 🔍 SEO optimized and high performance
 - 🌗 Clean, futuristic UI inspired by the Metaverse
 
----
-
-## 🛠️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/metaverse-landing-page.git
-
-# Navigate to the project folder
-cd metaverse-landing-page
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
 
